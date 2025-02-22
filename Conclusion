@@ -1,4 +1,4 @@
-**Conclusion:**
+Conclusion:
 
 *   2D scatter plot suggests that ENc (Effective Number of Codons) values for some of the organism groups are less than zero. The ENc values are a measure of the codon usage bias in a gene or genome. A higher ENc value indicates a more biased codon usage, while a lower ENc value indicates a less biased codon usage.
 
